@@ -182,28 +182,28 @@ graph TD
 ## 📸 Screenshots Section
 
 ### 🖥️ Landing Page
-![Landing Page](./screenshots/Screenshot 2026-06-13 230827.png)
+![Landing Page](./screenshots/Screenshot_2026-06-13_230827.png)
 
 ### 👤 Signup Page
-![Signup Page](./screenshots/Screenshot 2026-06-13 230910.png)
+![Signup Page](./screenshots/Screenshot_2026-06-13_230910.png)
 
 ### 🔑 Login Page
-![Login Page](./screenshots/Screenshot 2026-06-13 230853.png)
+![Login Page](./screenshots/Screenshot_2026-06-13_230853.png)
 
 ### 📊 Dashboard
-![Dashboard](./screenshots/Screenshot 2026-06-13 230939.png)
+![Dashboard](./screenshots/Screenshot_2026-06-13_230939.png)
 
 ### 📂 Bulk URL Shortener
-![Bulk URL Shortener](./screenshots/Screenshot 2026-06-13 230958.png)
+![Bulk URL Shortener](./screenshots/Screenshot_2026-06-13_230958.png)
 
 ### 📱 QR Code Feature
-![QR Code Feature](./screenshots/Screenshot 2026-06-13 231028.png)
+![QR Code Feature](./screenshots/Screenshot_2026-06-13_231028.png)
 
 ### 📈 Analytics Page
-![Analytics Page](./screenshots/Screenshot 2026-06-13 231042.png)
+![Analytics Page](./screenshots/Screenshot_2026-06-13_231042.png)
 
 ### 🎨 Profile Page
-![Profile Page](./screenshots/Screenshot 2026-06-13 231101.png)
+![Profile Page](./screenshots/Screenshot_2026-06-13_231101.png)
 
 
 ---
@@ -360,7 +360,9 @@ BASE_URL=http://localhost:5000
 
 ## 🎥 Demo Video
 
-[🎬 Watch Demo Video](./screenshots/lv_0_20260614105635.mp4)
+<video src="./screenshots/lv_0_20260614105635.mp4" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## 📦 Sample Database Entries
