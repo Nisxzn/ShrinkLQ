@@ -182,31 +182,26 @@ graph TD
 ## 📸 Screenshots Section
 
 ### 🖥️ Landing Page
-![Landing Page](./screenshots/landing-page.png)
+![Landing Page](./snaps_of_website/Screenshot2026-06-13230827.png)
 
 ### 👤 Signup Page
-![Signup Page](./screenshots/signup-page.png)
+![Signup Page](./snaps_of_website/Screenshot2026-06-13230910.png)
 
 ### 🔑 Login Page
-![Login Page](./screenshots/login-page.png)
+![Login Page](./snaps_of_website/Screenshot2026-06-13230853.png)
 
 ### 📊 Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](/naps_of_website/Screenshot2026-06-13230939.png)
 
 ### 📂 Bulk URL Shortener
-![Bulk URL Shortener](./screenshots/bulk-url-shortener.png)
+![Bulk URL Shortener](./snaps_of_website/Screenshot2026-06-13230958.png)
 
 ### 📱 QR Code Feature
-![QR Code Feature](./screenshots/qr-code-feature.png)
+![QR Code Feature](./snaps_of_website/Screenshot2026-06-13231028.png)
 
 ### 📈 Analytics Page
-![Analytics Page](./screenshots/analytics-page.png)
+![Analytics Page](./snaps_of_website/Screenshot2026-06-13231042.png)
 
-### 🔗 Public Stats Page
-![Public Stats Page](./screenshots/public-stats-page.png)
-
-### 📱 Mobile View
-![Mobile View](./screenshots/mobile-view.png)
 
 ---
 
@@ -361,8 +356,7 @@ BASE_URL=http://localhost:5000
 ---
 
 ## 🎥 Demo Video
-[Demo Video Link Here]
-
+![video](./snaps_of_website/lv_0_20260614105635.mp4)
 ---
 
 ## 📦 Sample Database Entries
