@@ -356,7 +356,7 @@ BASE_URL=http://localhost:5000
 ---
 
 ## 🎥 Demo Video
-![video](./snaps_of_website/lv_0_20260614105635.mp4)
+![video](lv_0_20260614105635.mp4)
 ---
 
 ## 📦 Sample Database Entries
